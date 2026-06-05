@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telefe" tvg-logo="wikimedia.org" group-title="Internacionales",Telefe Argentina
+telefe.com
+#EXTINF:-1 tvg-id="RTVE" tvg-logo="wikimedia.org" group-title="Noticias",RTVE 24h España
+rtve.es
